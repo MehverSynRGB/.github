@@ -2,17 +2,17 @@
     <tr>
         <td>
         	<a href='https://github.com/MehverSynRGB/BiliBili-TextSearchList'>
-        		<img src="https://github.com/MehverSynRGB/BiliBili-TextSearchList/raw/main/%23README/icon/256.png" width="50%"/>
+        		<img src="https://github.com/MehverSynRGB/BiliBili-TextSearchList/raw/main/docs/icon/256.png" width="50%"/>
             </a>
         </td>
         <td>
         	<a href='https://github.com/MehverSynRGB/BiliBili-TextFavList'>
-        		<img src="https://github.com/MehverSynRGB/BiliBili-TextFavList/raw/main/%23README/icon/256.png" width="50%"/>
+        		<img src="https://github.com/MehverSynRGB/BiliBili-TextFavList/raw/main/docs/icon/256.png" width="50%"/>
             </a>
         </td>
         <td>
         	<a href='https://github.com/MehverSynRGB/HqPCB-MMImpedance'>
-        		<img src="https://github.com/MehverSynRGB/HqPCB-MMImpedance/raw/main/%23README/icon/256.png" width="50%"/>
+        		<img src="https://github.com/MehverSynRGB/HqPCB-MMImpedance/raw/main/docs/icon/256.png" width="50%"/>
             </a>
         </td>
     </tr>
@@ -45,17 +45,17 @@
     <tr>
         <td>
         	<a href='https://github.com/MehverSynRGB/AcFun-ScrollVolume'>
-        		<img src="https://github.com/MehverSynRGB/AcFun-ScrollVolume/raw/main/%23README/icon/256.png" width="50%"/>
+        		<img src="https://github.com/MehverSynRGB/AcFun-ScrollVolume/raw/main/docs/icon/256.png" width="50%"/>
             </a>
         </td>
         <td>
         	<a href='https://github.com/MehverSynRGB/BiliBili-EasyCopy'>
-        		<img src="https://github.com/MehverSynRGB/BiliBili-EasyCopy/raw/main/%23README/icon/256.png" width="50%"/>
+        		<img src="https://github.com/MehverSynRGB/BiliBili-EasyCopy/raw/main/docs/icon/256.png" width="50%"/>
             </a>
         </td>
         <td>
         	<a href='https://github.com/MehverSynRGB/BiliBili-PassInteractiveVideo'>
-        		<img src="https://github.com/MehverSynRGB/BiliBili-PassInteractiveVideo/raw/main/%23README/icon/256.png" width="50%"/>
+        		<img src="https://github.com/MehverSynRGB/BiliBili-PassInteractiveVideo/raw/main/docs/icon/256.png" width="50%"/>
             </a>
         </td>
     </tr>
@@ -87,17 +87,17 @@
     <tr>
         <td>
         	<a href='https://github.com/MehverSynRGB/BMTranslator-UIModify'>
-        		<img src="https://github.com/MehverSynRGB/BMTranslator-UIModify/raw/main/%23README/icon/256.png" width="50%"/>
+        		<img src="https://github.com/MehverSynRGB/BMTranslator-UIModify/raw/main/docs/icon/256.png" width="50%"/>
             </a>
         </td>
         <td>
         	<a href='https://github.com/MehverSynRGB/Ximalaya-UIModify'>
-        		<img src="https://github.com/MehverSynRGB/Ximalaya-UIModify/raw/main/%23README/icon/256.png" width="50%"/>
+        		<img src="https://github.com/MehverSynRGB/Ximalaya-UIModify/raw/main/docs/icon/256.png" width="50%"/>
             </a>
         </td>
 	<td>
         	<a href='https://github.com/MehverSynRGB/Pixiv-JoystickControl'>
-        		<img src="https://github.com/MehverSynRGB/Pixiv-JoystickControl/raw/main/%23README/icon/256.png" width="50%"/>
+        		<img src="https://github.com/MehverSynRGB/Pixiv-JoystickControl/raw/main/docs/icon/256.png" width="50%"/>
             </a>
         </td>
     </tr>
@@ -127,17 +127,17 @@
     <tr>
         <td>
             <a href='https://github.com/MehverSynRGB/Pixiv-DeleteNoNeed'>
-        		<img src="https://github.com/MehverSynRGB/Pixiv-DeleteNoNeed/raw/main/%23README/icon/256.png" width="50%"/>
+        		<img src="https://github.com/MehverSynRGB/Pixiv-DeleteNoNeed/raw/main/docs/icon/256.png" width="50%"/>
             </a>
         </td>
         <td>
         	<a href='https://github.com/MehverSynRGB/Pixiv-ForceSafeMode'>
-                <img src="https://github.com/MehverSynRGB/Pixiv-ForceSafeMode/raw/main/%23README/icon/256.png" width="50%"/>
+                <img src="https://github.com/MehverSynRGB/Pixiv-ForceSafeMode/raw/main/docs/icon/256.png" width="50%"/>
             </a>
         </td>
         <td>
         	<a href='https://github.com/MehverSynRGB/Pixiv-QuickBookmark'>
-        		<img src="https://github.com/MehverSynRGB/Pixiv-QuickBookmark/raw/main/%23README/icon/256.png" width="50%"/>
+        		<img src="https://github.com/MehverSynRGB/Pixiv-QuickBookmark/raw/main/docs/icon/256.png" width="50%"/>
             </a>
         </td>
     </tr>
