@@ -108,6 +108,13 @@
         </td>
     </tr>
     <tr>
+		<td>
+            <h4>BiliBili-DownloadDanmaku <code>v1.0</code></h4>
+            <p><b>BiliBili-弹幕下载</b></p>
+            <p>[ 简体中文 ]</p>
+            <a href='https://github.com/MehverSynRGB/BiliBili-DownloadDanmaku'><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a> <a href='https://github.com/MehverSynRGB/BiliBili-DownloadDanmaku/raw/refs/heads/main/BiliBili-DownloadDanmaku.user.js'><img src="https://img.shields.io/badge/-📥-181717?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a><br>
+            <a href='https://greasyfork.org/zh-CN/scripts/589645-bilibili-downloaddanmaku'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://update.greasyfork.org/scripts/589645/BiliBili-DownloadDanmaku.user.js'><img src="https://img.shields.io/badge/-📥-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
+        </td>
         <td>
         	<h4>BMTranslator-UIModify <code>v1.1</code></h4>
             <p><b>BMTranslator-综合界面优化</b></p>
@@ -122,14 +129,6 @@
             <p>[ 简体中文 ]</p>
             <a href='https://github.com/MehverSynRGB/Ximalaya-UIModify'><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a> <a href='https://github.com/MehverSynRGB/Ximalaya-UIModify/raw/refs/heads/main/Ximalaya-UIModify.user.js'><img src="https://img.shields.io/badge/-📥-181717?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a><br>
             <a href='https://greasyfork.org/zh-CN/scripts/464548-ximalaya-uimodify'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/464548-ximalaya-uimodify/code/Ximalaya-UIModify.user.js'><img src="https://img.shields.io/badge/-📥-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
-            <p><b><i><code>Archived: no longer maintained</code></i></b></p>
-        </td>
-	<td>
-            <h4>Pixiv-JoystickControl <code>v1.1</code></h4>
-            <p><b>Pixiv-摇杆控制</b></p>
-            <p>[ English | 简体中文 | 日本語 ]</p>
-            <a href='https://github.com/MehverSynRGB/Pixiv-JoystickControl'><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a> <a href='https://github.com/MehverSynRGB/Pixiv-JoystickControl/raw/refs/heads/main/Pixiv-JoystickControl.user.js'><img src="https://img.shields.io/badge/-📥-181717?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a><br>
-            <a href='https://greasyfork.org/zh-CN/scripts/475490-pixiv-joystickcontrol'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/475490-pixiv-joystickcontrol/code/Pixiv-DeleteNoNeed.user.js'><img src="https://img.shields.io/badge/-📥-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
             <p><b><i><code>Archived: no longer maintained</code></i></b></p>
         </td>
     </tr>
@@ -177,5 +176,16 @@
         	<a href='https://openuserjs.org/scripts/TitanRGB/Pixiv-QuickBookmark'><img src="https://img.shields.io/badge/-OpenUserJS-004796?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="OpenUserJS"></a> <a href='https://openuserjs.org/install/TitanRGB/Pixiv-QuickBookmark.user.js'><img src="https://img.shields.io/badge/-📥-004796?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
             <p>&nbsp;</p>
         </td>
+    </tr>
+    <tr>
+		<td>
+            <h4>Pixiv-JoystickControl <code>v1.1</code></h4>
+            <p><b>Pixiv-摇杆控制</b></p>
+            <p>[ English | 简体中文 | 日本語 ]</p>
+            <a href='https://github.com/MehverSynRGB/Pixiv-JoystickControl'><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a> <a href='https://github.com/MehverSynRGB/Pixiv-JoystickControl/raw/refs/heads/main/Pixiv-JoystickControl.user.js'><img src="https://img.shields.io/badge/-📥-181717?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a><br>
+            <a href='https://greasyfork.org/zh-CN/scripts/475490-pixiv-joystickcontrol'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/475490-pixiv-joystickcontrol/code/Pixiv-DeleteNoNeed.user.js'><img src="https://img.shields.io/badge/-📥-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
+            <p><b><i><code>Archived: no longer maintained</code></i></b></p>
+        </td>
+		<td></td><td></td>
     </tr>
 </table>
