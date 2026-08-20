@@ -151,7 +151,7 @@
     </tr>
     <tr>
         <td>
-            <h4>Pixiv-DeleteNoNeed <code>v1.1</code></h4>
+            <h4>Pixiv-DeleteNoNeed <code>v1.2</code></h4>
             <p><b>Pixiv-删除无用元素</b></p>
             <p>[ English | 简体中文 | 日本語 ]</p>
             <a href='https://github.com/MehverSynRGB/Pixiv-DeleteNoNeed'><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a> <a href='https://github.com/MehverSynRGB/Pixiv-DeleteNoNeed/raw/refs/heads/main/Pixiv-DeleteNoNeed.user.js'><img src="https://img.shields.io/badge/-📥-181717?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a><br>
