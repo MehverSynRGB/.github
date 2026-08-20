@@ -187,7 +187,7 @@
     </tr>
     <tr>
 		<td>
-            <h4>Pixiv-JoystickControl <code>v1.1</code></h4>
+            <h4>Pixiv-JoystickControl <code>v1.0</code></h4>
             <p><b>Pixiv-摇杆控制</b></p>
             <p>[ English | 简体中文 | 日本語 ]</p>
             <a href='https://github.com/MehverSynRGB/Pixiv-JoystickControl'><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a> <a href='https://github.com/MehverSynRGB/Pixiv-JoystickControl/raw/refs/heads/main/Pixiv-JoystickControl.user.js'><img src="https://img.shields.io/badge/-📥-181717?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a><br>
