@@ -36,7 +36,7 @@
             <p><b><i><code>Archived: no longer maintained</code></i></b></p>
         </td>
         <td>
-        	<h4>HqPCB-MMImpedance <code>v1.0</code></h4>
+        	<h4>HqPCB-MMImpedance <code>v1.1</code></h4>
             <p><b>HqPCB-毫米计算阻抗</b></p>
             <p>[ 简体中文 ]</p>
             <a href='https://github.com/MehverSynRGB/HqPCB-MMImpedance'><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a> <a href='https://github.com/MehverSynRGB/HqPCB-MMImpedance/raw/refs/heads/main/HqPCB-MMImpedance.user.js'><img src="https://img.shields.io/badge/-📥-181717?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a><br>
