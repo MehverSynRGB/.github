@@ -168,7 +168,7 @@
             <p><b><i><code>Archived: no longer maintained</code></i></b></p>
         </td>
         <td>
-            <h4>Pixiv-QuickBookmark <code>v2.7</code></h4>
+            <h4>Pixiv-QuickBookmark <code>v2.9</code></h4>
             <p><b>Pixiv-快捷收藏</b></p>
             <p>[ English | 简体中文 | 日本語 ]</p>
             <a href='https://github.com/MehverSynRGB/Pixiv-QuickBookmark'><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a> <a href='https://github.com/MehverSynRGB/Pixiv-QuickBookmark/raw/refs/heads/main/Pixiv-QuickBookmark.user.js'><img src="https://img.shields.io/badge/-📥-181717?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a><br>
