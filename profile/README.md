@@ -109,7 +109,7 @@
     </tr>
     <tr>
 		<td>
-            <h4>BiliBili-DownloadDanmaku <code>v1.0</code></h4>
+            <h4>BiliBili-DownloadDanmaku <code>v1.1</code></h4>
             <p><b>BiliBili-弹幕下载</b></p>
             <p>[ 简体中文 ]</p>
             <a href='https://github.com/MehverSynRGB/BiliBili-DownloadDanmaku'><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a> <a href='https://github.com/MehverSynRGB/BiliBili-DownloadDanmaku/raw/refs/heads/main/BiliBili-DownloadDanmaku.user.js'><img src="https://img.shields.io/badge/-📥-181717?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a><br>
